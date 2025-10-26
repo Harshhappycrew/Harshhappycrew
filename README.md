@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Harshith[Harshhappycrew]</h1>
+<h1 align="left">Hi 👋, I'm HarshCrew[Harshith]</h1>
 <h3 align="left">Data Scientist | Python enthusiast | Machine Learning practitioner. Passionate about uncovering insights from data and building intelligent solutions from India</h3>
 
 <p align="left"> <a href="https://twitter.com/harshith050603" target="blank"><img src="https://img.shields.io/twitter/follow/harshith050603?logo=twitter&style=for-the-badge" alt="harshith050603" /></a> </p>
