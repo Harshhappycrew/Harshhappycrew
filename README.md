@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshith050603" target="blank"><img src="https://img.shields.io/twitter/follow/harshith050603?logo=twitter&style=for-the-badge" alt="harshith050603" /></a> </p>
 
-- 🔭 I’m currently working on [trade-predictor-dashboard](https://github.com/Harshhappycrew/trade-predictor-dashboard)
+- 🔭 I’m currently working on [Trading_Prediction_webApp](https://github.com/Harshhappycrew/Trading_Prediction_webApp)
 
 - 🌱 I’m currently learning **TensorFlow, Kubernetes, SRE on GCP**
 
